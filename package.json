@@ -1,0 +1,17 @@
+{
+  "name": "prettyprint",
+  "version": "1.0.0",
+  "description": "A pretty print works",
+  "main": "main.js",
+  "bin":"bin.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "node-modules": "^1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rajat",
+  "license": "MIT"
+}
